@@ -1,6 +1,6 @@
 # Portfólio – Ciência de Dados
 
-Este repositório reúne projetos acadêmicos e práticos desenvolvidos ao longo do curso de Tecnólogo em Ciência de Dados, com foco em análise de dados, visualização, programação em Python e aplicações introdutórias de Visão Computacional.
+Este repositório reúne projetos acadêmicos e práticos desenvolvidos ao longo do curso da Faculdade em Ciência de Dados, com foco em análise de dados, visualização, programação em Python e aplicações introdutórias de Visão Computacional.
 
 O objetivo do portfólio é demonstrar a capacidade de transformar dados em informação útil, apoiar a tomada de decisão e comunicar resultados de forma clara — competências essenciais tanto para a área de Ciência de Dados quanto para a atuação em Gerência de Produtos.
 
@@ -53,5 +53,5 @@ O notebook pode ser executado diretamente no Google Colab:
 
 ## 👤 Autor
 *Eduardo Pereira Nogueira*  
-Tecnólogo em Ciência de Dados  
+Tecnólogo Superior em Ciência de Dados  
 Interesse em Ciência de Dados e Gerência de Produtos
