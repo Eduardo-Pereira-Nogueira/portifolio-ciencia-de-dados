@@ -1,35 +1,33 @@
-# Portfólio – Ciência de Dados
+# Visão Computacional com OpenCV
 
-Este repositório reúne projetos acadêmicos e práticos desenvolvidos ao longo do curso superior de *Ciência de Dados, com foco em **análise de dados, visualização, programação em Python* e aplicações introdutórias de *Visão Computacional e Machine Learning*.
+Este módulo reúne projetos introdutórios de Visão Computacional desenvolvidos com Python e OpenCV, aplicados ao contexto da Ciência de Dados.
 
-O objetivo deste portfólio é demonstrar a capacidade de *transformar dados em informação útil, apoiar a **tomada de decisão* e comunicar resultados de forma clara — competências essenciais tanto para a área de *Ciência de Dados* quanto para *Gerência de Produtos*.
+O foco está na compreensão de como imagens são representadas computacionalmente e em como operações básicas de processamento visual podem ser utilizadas para extrair informações relevantes, preparando a base para análises mais avançadas e modelos de aprendizado de máquina.
 
-## 📂 Estrutura do Repositório
+## Objetivo do módulo
+Demonstrar a capacidade de manipular imagens digitais, compreender estruturas visuais como dados e aplicar técnicas fundamentais de Visão Computacional de forma clara, organizada e reproduzível.
 
-Os projetos estão organizados por pastas, seguindo uma estrutura progressiva de aprendizado:
+## Tecnologias utilizadas
+- Python  
+- OpenCV  
+- NumPy  
+- Google Colab  
 
-- *01-visao-computacional-opencv*  
-  Introdução à Visão Computacional utilizando Python e OpenCV, abordando conceitos fundamentais como leitura de imagens, representação computacional e operações básicas.
+## Principais aprendizados
+- Representação de imagens como matrizes numéricas  
+- Manipulação de canais de cor e conversões (RGB, tons de cinza)  
+- Operações básicas de processamento de imagens  
+- Estruturação de notebooks com foco em comunicação técnica  
+- Organização de projetos voltada à clareza e manutenção  
 
-Cada pasta contém:
-- Um arquivo README.md explicando o projeto
-- Um ou mais notebooks .ipynb com o código e análises
+## Conexão com Ciência de Dados e Produto
+Este módulo evidencia competências essenciais como:
+- Pensamento analítico aplicado a dados visuais  
+- Capacidade de transformar conceitos técnicos em explicações compreensíveis  
+- Organização de entregas com foco em entendimento, contexto e tomada de decisão  
 
-## 🛠️ Tecnologias Utilizadas
+Essas habilidades são fundamentais tanto para funções técnicas quanto para atuação em ambientes orientados a dados e produtos.
 
-- Python
-- Google Colab
-- Jupyter Notebook
-- OpenCV
-- Bibliotecas de análise e visualização de dados
-
-## 🎯 Objetivo Profissional
-
-Este portfólio foi desenvolvido com foco em oportunidades nas áreas de:
-- Ciência de Dados
-- Análise de Dados
-- Produto / Gerência de Produtos (orientação a dados)
-
----
-
-📌 Portfólio em constante evolução, com novos projetos adicionados conforme o avanço no curso.
+## Execução
+Os notebooks estão totalmente executados e podem ser reproduzidos no Google Colab.  
+Os resultados permanecem visíveis para facilitar a leitura e avaliação.
