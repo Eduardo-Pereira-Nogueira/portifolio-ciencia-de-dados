@@ -1,57 +1,34 @@
-# Portfólio – Ciência de Dados
+# Fundamentos de Redes Neurais
 
-Este repositório reúne projetos acadêmicos e práticos desenvolvidos ao longo do curso da Faculdade em Ciência de Dados, com foco em análise de dados, visualização, programação em Python e aplicações introdutórias de Visão Computacional.
+Este módulo apresenta a aplicação prática dos fundamentos de Redes Neurais Artificiais, utilizando Python e TensorFlow para classificação de dados e imagens.
 
-O objetivo do portfólio é demonstrar a capacidade de transformar dados em informação útil, apoiar a tomada de decisão e comunicar resultados de forma clara — competências essenciais tanto para a área de Ciência de Dados quanto para a atuação em Gerência de Produtos.
+O conteúdo percorre o fluxo completo de um modelo de aprendizado supervisionado, desde a preparação dos dados até o treinamento e avaliação do desempenho, com foco em clareza conceitual, organização e aplicação prática.
 
----
+## Objetivo do módulo
+Demonstrar a construção, o treinamento e a avaliação de modelos de redes neurais básicas, evidenciando a capacidade de estruturar soluções de aprendizado de máquina e interpretar seus resultados.
 
-## 📌 Projeto em Destaque  
-### Introdução à Visão Computacional com OpenCV
-
-Neste projeto são apresentados conceitos introdutórios de Visão Computacional utilizando Python e a biblioteca OpenCV, aplicados no contexto da Ciência de Dados.
-
-### Objetivos do projeto
-- Compreender como imagens digitais são representadas computacionalmente  
-- Realizar o carregamento e visualização de imagens em Python  
-- Entender a diferença entre os padrões de cores BGR e RGB  
-- Aplicar conversão de cores para correta interpretação visual  
-- Desenvolver raciocínio analítico aplicado a dados visuais  
-
-### Tecnologias utilizadas
+## Tecnologias utilizadas
 - Python  
-- OpenCV  
-- Matplotlib  
+- TensorFlow / Keras  
+- NumPy  
 - Google Colab  
 
-### Principais aprendizados
-- Manipulação básica de imagens como estruturas de dados  
-- Importância da padronização e conversão correta de cores em análises visuais  
-- Organização de notebooks para comunicação técnica e não técnica  
-- Estruturação de projetos com foco em clareza, contexto e tomada de decisão  
+## Principais aprendizados
+- Preparação e normalização de dados  
+- Conversão de rótulos para one-hot encoding  
+- Construção de modelos com camadas densas  
+- Compilação e treinamento de redes neurais  
+- Avaliação de desempenho com métricas de acurácia  
 
----
+## Conexão com Ciência de Dados e Gerência de Produtos
+Este módulo reforça competências como:
+- Raciocínio orientado a dados e métricas  
+- Capacidade de traduzir modelos técnicos em explicações objetivas  
+- Interpretação de resultados para apoio à tomada de decisão  
+- Organização de projetos com foco em clareza, contexto e impacto  
 
-## 🎯 Conexão com Ciência de Dados e Gerência de Produtos
+Essas habilidades são diretamente aplicáveis tanto em funções técnicas quanto em papéis estratégicos orientados a dados.
 
-Este projeto reforça habilidades fundamentais como:
-- Pensamento analítico orientado a dados  
-- Capacidade de traduzir conceitos técnicos em explicações claras  
-- Organização e documentação de soluções  
-- Visão de produto ao compreender problemas, objetivos e entregáveis  
-
-Essas competências são diretamente aplicáveis tanto em times de *Ciência de Dados, quanto em funções de **Gerência de Produtos*, onde dados são utilizados para orientar decisões estratégicas e melhorias contínuas.
-
----
-
-## ▶️ Como executar
-O notebook pode ser executado diretamente no Google Colab:
-
-🔗 O link para o Colab está disponível no próprio arquivo do notebook.
-
----
-
-## 👤 Autor
-*Eduardo Pereira Nogueira*  
-Tecnólogo Superior em Ciência de Dados  
-Interesse em Ciência de Dados e Gerência de Produtos
+## Execução
+Os notebooks estão completamente executados e podem ser rodados novamente no Google Colab.  
+Os resultados de treinamento e avaliação permanecem visíveis para facilitar a análise.
